@@ -1,0 +1,36 @@
+.sec2 {
+    width: 100%;
+    height: 800px;
+}
+
+.part1 {
+    padding-top: 3rem;
+    width: 100%;
+    height: 40%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.part2 {
+    width: 100%;
+    height: 55%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pic {
+    height: 9rem;
+    width: 9rem;
+}
+
+.imgname {
+    padding-left: 3rem;
+    padding-top: 1rem;
+}
+
+.part2content {
+    padding-top: 1.5rem;
+    padding-right: 10rem;
+    font-size: 1rem;
+    text-size-adjust: calc();
+}

@@ -1,0 +1,43 @@
+.sec1img {
+    height: 500px;
+}
+
+.headline {
+    font-size: 1.2rem;
+    position: absolute;
+    top: 90px;
+    text-align: center;
+    margin-left: 30%;
+}
+
+.shopnowbutton {
+    margin-top: 20px;
+    margin-left: 10rem;
+    height: 40px;
+    width: 150px;
+    background-color: rgb(41, 39, 39);
+    color: whitesmoke;
+}
+
+.interbox {
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-around;
+    font-size: .7rem;
+    color: whitesmoke;
+    height: 100px;
+    width: 80%;
+    padding-top: 20px;
+    border-radius: 8px;
+    background-color: rgb(27, 73, 51);
+    position: absolute;
+    top: 32rem;
+    text-align: center;
+
+}
+
+.content {
+    height: fit-content;
+    border-right: 1.2px solid whitesmoke;
+    padding-right: 30px;
+}
